@@ -1,0 +1,49 @@
+Date,Replicate,Person,Method,Method_Replicate,Replicate_person,Aliquot volume (¬µL),Rep 1,Rep 2,Rep 3,Rep 4,Rep 5,Average embryo count,Embryo/ ¬µL,Volume needed for 1800 Embryos,Add K- medium (mL),Total number of embryos obtained from 2 plates,Embryos_per_plate
+2024-September-9,R1,JC,Bleach,Bleach_1,R1_JC,3,4,5,5,5,12,6.2,2.07,870.97,2129.03,6200,3100
+2024-September-9,R1,JC,Filtration,Filtration_1,R1_JC,3,5,8,9,16,11,9.8,3.27,551.02,2448.98,9800,4900
+2024-September-9,R1,MM,Bleach,Bleach_1,R1_MM,3,5,10,5,3,6,5.8,1.93,931.03,2068.97,5800,2900
+2024-September-9,R1,MM,Filtration,Filtration_1,R1_MM,3,3,6,16,4,5,6.8,2.27,794.12,2205.88,6800,3400
+2024-September-9,R1,NJ,Bleach,Bleach_1,R1_NJ,3,6,5,4,5,4,4.8,1.6,1125,1875,4800,2400
+2024-September-9,R1,NJ,Filtration,Filtration_1,R1_NJ,3,13,13,8,10,12,11.2,3.73,482.14,2517.86,11200,5600
+10th September 2024,R2,JC,Bleach,Bleach_2,R2_JC,3,12,11,14,11,17,13,4.33,415.38,2584.62,13000,6500
+10th September 2024,R2,JC,Filtration,Filtration_2,R2_JC,3,9,3,5,8,10,7,2.33,771.43,2228.57,7000,3500
+10th September 2024,R2,MM,Bleach,Bleach_2,R2_MM,3,5,2,2,4,4,3.4,1.13,1588.24,1411.76,3400,1700
+10th September 2024,R2,MM,Filtration,Filtration_2,R2_MM,3,20,14,11,12,13,14,4.67,385.71,2614.29,14000,7000
+10th September 2024,R2,NJ,Bleach,Bleach_2,R2_NJ,3,2,6,4,7,4,4.6,1.53,1173.91,1826.09,4600,2300
+10th September 2024,R2,NJ,Filtration,Filtration_2,R2_NJ,3,3,6,6,9,3,5.4,1.8,1000,2000,5400,2700
+22nd October 2024,R3,JC,Bleach,Bleach_3,R3_JC,3,5,6,7,8,5,6.2,2.07,870.97,2129.03,6200,3100
+22nd October 2024,R3,JC,Filtration,Filtration_3,R3_JC,3,7,10,8,9,6,8,2.67,675,2325,8000,4000
+22nd October 2024,R3,MM,Bleach,Bleach_3,R3_MM,3,9,10,13,9,17,11.6,3.87,465.52,2534.48,11600,5800
+22nd October 2024,R3,MM,Filtration,Filtration_3,R3_MM,3,9,7,14,16,16,12.4,4.13,435.48,2564.52,12400,6200
+22nd October 2024,R3,NJ,Bleach,Bleach_3,R3_NJ,3,7,9,11,9,9,9,3,600,2400,9000,4500
+22nd October 2024,R3,NJ,Filtration,Filtration_3,R3_NJ,3,23,17,21,18,22,20.2,6.73,267.33,2732.67,20200,10100
+16th September 2024,R4,JC,Bleach,Bleach_4,R4_JC,3,15,13,6,11,15,12,4,450,2550,12000,6000
+16th September 2024,R4,JC,Filtration,Filtraion_4,R4_JC,3,15,20,17,13,21,17.2,5.73,313.95,2686.05,17200,8600
+16th September 2024,R4,MM,Bleach,Bleach_4,R4_MM,3,7,2,4,3,10,5.2,1.73,1038.46,1961.54,5200,2600
+16th September 2024,R4,MM,Filtration,Filtraion_4,R4_MM,3,18,18,24,12,12,16.8,5.6,321.43,2678.57,16800,8400
+16th September 2024,R4,NJ,Bleach,Bleach_4,R4_NJ,3,10,10,13,5,15,10.6,3.53,509.43,2490.57,10600,5300
+16th September 2024,R4,NJ,Filtration,Filtraion_4,R4_NJ,3,9,5,4,8,4,6,2,900,2100,6000,3000
+1st October 2024,R5,JC,Bleach,Bleach_5,R5_JC,3,6,4,1,8,11,6,2,900,2100,6000,3000
+1st October 2024,R5,JC,Filtration,Filtration_5,R5_JC,3,9,8,13,12,12,10.8,3.6,500,2500,20000,10000
+1st October 2024,R5,MM,Bleach,Bleach_5,R5_MM,3,9,10,7,12,13,10.2,3.4,529.41,2470.59,6800,3400
+1st October 2024,R5,MM,Filtration,Filtration_5,R5_MM,3,10,6,5,7,10,7.6,2.53,710.53,2289.47,13933.33333,6966.666667
+1st October 2024,R5,NJ,Bleach,Bleach_5,R5_NJ,3,10,9,3,6,9,7.4,2.47,729.73,2270.27,7400,3700
+1st October 2024,R5,NJ,Filtration,Filtration_5,R5_NJ,3,11,13,14,18,15,14.2,4.73,380.28,2619.72,15620,7810
+5th August 2024,R6,JC,Bleach,Bleach_6,R6_JC,0,0,0,0,0,0,0,0,0,0,36000,18000
+5th August 2024,R6,JC,Filtration,Filtraion_6,R6_JC,0,0,0,0,0,0,0,0,0,0,18000,9000
+5th August 2024,R6,MM,Bleach,Bleach_6,R6_MM,0,0,0,0,0,0,0,0,0,0,12000,6000
+5th August 2024,R6,MM,Filtration,Filtraion_6,R6_MM,0,0,0,0,0,0,0,0,0,0,21000,10500
+5th August 2024,R6,NJ,Bleach,Bleach_6,R6_NJ,0,0,0,0,0,0,0,0,0,0,18800,9400
+5th August 2024,R6,NJ,Filtration,Filtraion_6,R6_NJ,0,0,0,0,0,0,0,0,0,0,23800,11900
+6th August 2024,R7,JC,Bleach,Bleach_7,R7_JC,0,0,0,0,0,0,0,0,0,0,13000,6500
+6th August 2024,R7,JC,Filtration,Filtration_7,R7_JC,0,0,0,0,0,0,0,0,0,0,23000,11500
+6th August 2024,R7,MM,Bleach,Bleach_7,R7_MM,0,0,0,0,0,0,0,0,0,0,12400,6200
+6th August 2024,R7,MM,Filtration,Filtration_7,R7_MM,0,0,0,0,0,0,0,0,0,0,60000,30000
+6th August 2024,R7,NJ,Bleach,Bleach_7,R7_NJ,0,0,0,0,0,0,0,0,0,0,12200,6100
+6th August 2024,R7,NJ,Filtration,Filtration_7,R7_NJ,0,0,0,0,0,0,0,0,0,0,53400,26700
+12th August 2024,R8,JC,Bleach,Bleach_8,R8_JC,0,0,0,0,0,0,0,0,0,0,9600,4800
+12th August 2024,R8,JC,Filtration,Filtration_8,R8_JC,0,0,0,0,0,0,0,0,0,0,12200,6100
+12th August 2024,R8,MM,Bleach,Bleach_8,R8_MM,0,0,0,0,0,0,0,0,0,0,5200,2600
+12th August 2024,R8,MM,Filtration,Filtration_8,R8_MM,0,0,0,0,0,0,0,0,0,0,31000,15500
+12th August 2024,R8,NJ,Bleach,Bleach_8,R8_NJ,0,0,0,0,0,0,0,0,0,0,5600,2800
+12th August 2024,R8,NJ,Filtration,Filtration_8,R8_NJ,0,0,0,0,0,0,0,0,0,0,28000,14000
